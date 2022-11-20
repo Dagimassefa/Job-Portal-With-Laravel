@@ -10,7 +10,7 @@ Inorder to post a job the user must be register and logged in and after they hir
 - blade 
 - HTML
 
-**Form**. All the validation is carried out.
+**Form**. All the validation are carried out.
 
 
 ## Screenshots
